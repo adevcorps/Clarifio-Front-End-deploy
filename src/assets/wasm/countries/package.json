@@ -1,0 +1,14 @@
+{
+  "name": "countries",
+  "version": "0.1.0",
+  "files": [
+    "countries_bg.wasm",
+    "countries.js",
+    "countries.d.ts"
+  ],
+  "module": "countries.js",
+  "types": "countries.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}

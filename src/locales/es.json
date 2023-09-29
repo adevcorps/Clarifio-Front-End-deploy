@@ -1,0 +1,19 @@
+{
+    "languages": {
+        "pt": "Portugués",
+        "en": "Inglés",
+        "es": "Español"
+    },
+    "title": {
+        "config": "Configurações"
+    },
+    "header": {
+        "home": "Hogar",
+        "products": "Productos",
+        "resources": "Recursos",
+        "pricing": "Precios",
+        "contact": "Contáctenos",
+        "login": "INICIAR SESIÓN",
+        "register": "REGÍSTRESE"
+    }
+}

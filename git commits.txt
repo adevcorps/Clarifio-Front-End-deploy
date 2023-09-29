@@ -1,0 +1,5 @@
+git remote set-url --add --push origin https://github.com/js-firepheonix/Email-Check-Saas-Platform
+git remote set-url --add --push origin https://github.com/AlbertSibiga/Email-Marketing-Saas-Platform
+git remote set-url --add --push origin https://github.com/AlbertSibiga/Clarifio
+
+git push -f origin
