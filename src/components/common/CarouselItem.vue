@@ -20,7 +20,7 @@
           Love the simplicity of the service and the prompt customer support. We can't
           imagine working without it.
         </p>
-        <img src="../../assets/images/home/review/avatar.png" class="mx-auto my-7" />
+        <img src="../../assets/images/home/review/Avatar.png" class="mx-auto my-7" />
         <p class="font-primary font-[600] text-[#231F20] text-[16.475px] text-center">
           Kelly Williams
         </p>
